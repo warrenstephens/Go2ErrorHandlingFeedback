@@ -2,7 +2,7 @@
 
 ref https://github.com/golang/go/wiki/Go2ErrorHandlingFeedback
 
-# Suggestions for the `handle` section of the new Go2 error handling code
+# Suggestions for the `handle` section of the new Go2 error handling proposal
 
 1. Provide access to the __line number__ of the *check* statement (i.e. the equivalent of the old C \_\_LINE\_\_ directive)
 2. Provide access to the source code __filename__ (i.e. "my_code.go")
