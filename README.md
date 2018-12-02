@@ -1,4 +1,4 @@
-# Go 2 Error Handling Feedback
+# Go2 Error Handling Feedback
 
 ref https://github.com/golang/go/wiki/Go2ErrorHandlingFeedback
 
