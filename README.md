@@ -18,3 +18,5 @@ The above suggestion is more focused on the "high level" issue of error handling
 Many reported errors are easy to diagnose and remedy __IF__ the developer can locate the correct line of code, in the correct source file, of the correct version __AND__ (sometimes important) within the timeframe that the problem condition still exists.
 
 For illustration, if given a stark choice between: __(#1)__ the line number, source filename, and code version, but NO error code or message, versus __(#2)__ an error code and message, but no precise location, it may be preferred by many developers to have #1, rather than #2!
+
+**.**
